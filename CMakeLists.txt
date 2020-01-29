@@ -1,3 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(modern_cmake_template)
-add_subdirectory(src)
+add_subdirectory(demo1)
+add_subdirectory(demo2)
+add_subdirectory(math)
+add_subdirectory(extmath)
